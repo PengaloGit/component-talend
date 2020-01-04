@@ -1,0 +1,27 @@
+package com.company.talend.components.processor;
+
+import java.io.Serializable;
+
+import org.talend.sdk.component.api.configuration.Option;
+import org.talend.sdk.component.api.configuration.ui.layout.GridLayout;
+import org.talend.sdk.component.api.meta.Documentation;
+
+@GridLayout({
+    // the generated layout put one configuration entry per line,
+    // customize it as much as needed
+    @GridLayout.Row({ "url" })
+})
+@Documentation("TODO fill the documentation for this configuration")
+public class HttpProcessorConfiguration implements Serializable {
+    @Option
+    @Documentation("TODO fill the documentation for this parameter")
+    private String url;
+
+    public String getUrl() {
+        return url;
+    }
+
+    public void setUrl(String url) {
+        this.url = url;
+    }
+}

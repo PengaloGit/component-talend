@@ -1,0 +1,12 @@
+== Component
+
+TODO fill the documentation for this processor
+
+=== Configuration
+
+[cols="d,d,m,a,e",options="header"]
+|===
+|Display Name|Description|Default Value|Enabled If|Configuration Path
+|configuration|TODO fill the documentation for this configuration|-|Always enabled|configuration
+|===
+

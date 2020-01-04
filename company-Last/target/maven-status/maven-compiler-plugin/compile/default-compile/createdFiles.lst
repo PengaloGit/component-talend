@@ -1,0 +1,6 @@
+com\company\talend\components\service\StoreService.class
+com\company\talend\components\processor\ComponentProcessorConfiguration.class
+com\company\talend\components\service\DataBaseManager.class
+com\company\talend\components\package-info.class
+com\company\talend\components\processor\Error.class
+com\company\talend\components\processor\ComponentProcessor.class

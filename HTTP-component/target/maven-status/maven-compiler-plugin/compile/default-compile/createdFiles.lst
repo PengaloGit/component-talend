@@ -1,0 +1,6 @@
+com\company\talend\components\processor\HttpProcessor.class
+com\company\talend\components\service\Http.class
+com\company\talend\components\processor\HttpProcessorConfiguration.class
+com\company\talend\components\service\HTTPComponentService.class
+com\company\talend\components\package-info.class
+com\company\talend\components\processor\Error.class

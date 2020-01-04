@@ -1,0 +1,25 @@
+//component_start:Errors
+
+== Errors
+
+TODO fill the documentation for this processor
+
+//configuration_start
+
+=== Configuration
+
+[cols="d,d,m,a,e,d",options="header"]
+|===
+|Display Name|Description|Default Value|Enabled If|Configuration Path|Configuration Type
+|configuration|TODO fill the documentation for this configuration|-|Always enabled|configuration|-
+|database|TODO fill the documentation for this parameter|-|Always enabled|configuration.database|-
+|host|TODO fill the documentation for this parameter|-|Always enabled|configuration.host|-
+|password|TODO fill the documentation for this parameter|-|Always enabled|configuration.password|-
+|port|TODO fill the documentation for this parameter|-|Always enabled|configuration.port|-
+|user|TODO fill the documentation for this parameter|-|Always enabled|configuration.user|-
+|===
+
+//configuration_end
+
+//component_end:Errors
+

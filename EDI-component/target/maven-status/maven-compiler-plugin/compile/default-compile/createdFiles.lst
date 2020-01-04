@@ -1,0 +1,5 @@
+com\EDI\talend\components\processor\TEDIComponentProcessor.class
+com\EDI\talend\components\package-info.class
+com\EDI\talend\components\processor\Error.class
+com\EDI\talend\components\service\ComponentService.class
+com\EDI\talend\components\processor\TEDIComponentProcessorConfiguration.class
